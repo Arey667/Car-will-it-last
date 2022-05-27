@@ -6,5 +6,5 @@
 - age:  value has diminished below bluebook, repairing is not worth the cost
 Insurance companies would benefit in knowing if there are certain vehicle features which would make cars more prone to ending a cars clean title early.
 I will use this ‘classification’ feature to determine if there are ‘features’ within the data that can help predict if a car will become the casualty of ‘INSURANCE SALVAGED’.
-** Let’s explore the fate of cars using analytics !…..**
+**Let’s explore the fate of cars using analytics !…..**
  
